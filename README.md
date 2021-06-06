@@ -10,7 +10,7 @@ Navigate here:
 Pause your game and run the script here:
 [<img src="https://steamuserimages-a.akamaihd.net/ugc/1744562492216259573/BC9386B591B2EDCDA4F8677903A1EB989F36B5A9/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">](http://google.com.au/)
 
-Farm experience points from the constantly respawning enemy!
+Farm experience points from the constantly respawning enemy! Leave it running overnight for best results lol
 
 Click your keyboard's 'End' button to end the script
 
