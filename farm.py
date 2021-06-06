@@ -20,7 +20,7 @@ def on_press(key):
 with pynput_keyboard.Listener(on_press=on_press) as listener:
     # tracks the last time that the shift key was pressed
     last_time_shift = time.time()
-    # tracks the last timae that mouse left click was clicked
+    # tracks the last time that mouse left click was clicked
     last_time_click = time.time()
     while not should_stop:
         # holds down shift every 0.1 seconds
