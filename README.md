@@ -15,3 +15,5 @@ Pause your game and run the script here:
 Farm experience points from the constantly respawning enemy!
 
 Click your keyboard's 'End' button to end the script
+
+FYI: this script assumes you did not change the game keybinds from default (shift to use Kuro's feather and left mouse click for main attack)
