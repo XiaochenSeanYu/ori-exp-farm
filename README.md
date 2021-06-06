@@ -1,6 +1,4 @@
 # ori-exp-farm
-Short & sweet Python script using keyboard and mouse libraries to automate an experience point farm in a particular level of the video game Ori and the Blind Forest: Definitive Edition
-
 Tested with Python 3.9.5
 
 pip install or venv-ify it up with the pkgs in requirements.txt
