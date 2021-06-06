@@ -7,10 +7,9 @@ import sys
 # boolean for while loop that calls keyboard inputs
 should_stop = False
 
-# listener functions that detects key presses, ends program when 'End' is pressed
+# listener function that detects key presses, ends program when 'End' is pressed
 def on_press(key):
     global should_stop
-    print(str(key))
     if key == pynput_keyboard.Key.end:
         print (str(key) + ' was pressed; ending')
         should_stop = True
